@@ -61,7 +61,6 @@ img {
 }
 
 h1 {
-    /* TODO: try adding the font family again since it didnt work */
     font-family: 'outfit';
     font-weight: 700;
 }
@@ -69,7 +68,6 @@ h1 {
 p {
     padding-top: 0.625em;
     font-size: 15px;
-    /* TODO: Add the font family to this */
     font-family: 'outfit';
     font-weight: 400;
     color: var(--GrayishBlue);
