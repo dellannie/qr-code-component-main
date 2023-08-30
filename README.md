@@ -20,8 +20,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/qr-code-with-just-htmlcss-u2CHPxbT49)
+- Live Site URL: [https://dellannie.github.io/qr-code-component-main/](https://dellannie.github.io/qr-code-component-main/)
 
 ## My process
 This was fun and simple. I didn't use any special CSS feature to complete this task. My reson for this is I was just trying to show off how the web is already responsive wihtout anything added to the code. CSS is amazing and I beleive that 99% of builds on the web need to stat with mobile first becuase the web is already responsive. 
