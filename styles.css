@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+:root {
+    --White: hsl(0, 0%, 100%);
+    --lightGray: hsl(212, 45%, 89%);
+    --GrayishBlue: hsl(220, 15%, 55%);
+    --DarkBlue: hsl(218, 44%, 22%);
+}
+
+body {
+    background-color: rgb(216, 220, 224);
+}
+
+.container{
+    width: 500px;
+    max-width: 100%;
+    margin: 60px auto;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.img-container {
+    max-width: 100%;
+    max-width: 100%;
+    padding: 1.25em;
+    vertical-align: bottom;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.content-container {
+    padding: 0.3125em 1.25em 1.50em;
+    text-align: center;
+    width: 500px;
+    max-width: 100%;
+    overflow: auto;
+}
+
+h1 {
+    /* TODO: try adding the font family again since it didnt work */
+}
+
+p {
+    padding-top: 0.625em;
+    font-size: 16px;
+    /* TODO: Add the font family to this */
+    color: var(--GrayishBlue);
+}
