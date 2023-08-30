@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-![Design preview for the QR code component coding challenge](.design/desktop-build-final.png)
+![Design preview for the QR code component coding challenge](./design/desktop-build-final.png)
 ## Table of contents
 
 
@@ -15,8 +15,8 @@
 
 ### Screenshot
 
-![](.design/desktop-build-final.png)
-![](.design/mobile-build-final.png)
+![](./design/desktop-build-final.png)
+![](./design/mobile-build-final.png)
 
 ### Links
 
